@@ -1,0 +1,47 @@
+CAF Based
+Linux Kernel 3.4.0
+Build with Google Toolchain 4.7
+
+CPU Governors:
+
+interactive
+ondemand (default)
+userspace
+powersave
+performance
+
+GPU Governors:
+
+msm_cpufreq
+msm-adreno-tz (default)
+userspace
+powersave
+performance
+simple_ondemand
+
+I/O Schedulers:
+
+noop
+deadline
+row
+cfq
+bfq (default)
+fiops
+sio
+
+LZ4
+CSnappy compression/decompression:
+exfat
+f2fs
+Battery Control
+Intelliplug (intelligent hotplug)
+Frandom Support
+Vibration Control
+MSM Kcal
+zRam
+ZCache
+Sound Control
+Multicore Power Saving
+Write Protection has been removed
+Init.d scripts
+Support for Synapse

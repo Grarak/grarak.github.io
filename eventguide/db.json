@@ -1,0 +1,138 @@
+{
+  "mainheader": {
+    "text": "Event Guide",
+    "logo": "https://scontent-vie.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s2048x2048/11021316_1022824564397860_3577621600021410228_o.jpg"
+  },
+  "organizers": [
+    {
+      "name": "SchmelzFest",
+      "description": "Das Wiener Sportstudentenfest.",
+      "logo": "http://schmelzfest.at/wp-content/uploads/2013/09/schmelzfest_header.gif",
+      "theme": "#000000",
+      "facebook_id": "500486486639207",
+      "events": [
+        "796414277090910"
+      ]
+    },
+    {
+      "name": "Vienna Event Agency",
+      "description": "Eine Gruppe, die sich vor allem durch die Events in unbekannteren Locations auszeichnet.",
+      "logo": "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/10517977_1397320823826121_7973168113134406596_n.png?oh=67a473729ba97042da88928de0681cc8&oe=5550DDA4&__gda__=1430877487_de24fabff7d872b8616da51c5f5183b6",
+      "theme": "#000000",
+      "facebook_id": "1392436054314598",
+      "events": [
+        "403900316420240",
+        "793918614003856",
+        "589475497826098",
+        "302043366658006"
+      ]
+    }
+  ],
+  "music": [
+    {
+      "name": "Faxtreme",
+      "description": "Two friends from vienna who like to make music.",
+      "logo": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/q85/p480x480/10592612_513854128749668_501789070372467128_n.jpg?oh=628cc33d7133a822b0ef888628f80ab2&oe=5581CA8C&__gda__=1435328945_169d71f6671d8f023072cc83e486888b",
+      "theme": "#979797",
+      "facebook_id": "217457168389367",
+      "soundcloud_id": "faxtrememusic",
+      "gigs": [
+        "302043366658006"
+      ]
+    },
+    {
+      "name": "Flowmotion",
+      "description": "Flowmotion is a young Dj from the surroundings of Vienna (Baden bei Wien).",
+      "logo": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/10631215_670941279679716_7832833770153465895_o.jpg",
+      "theme": "#000000",
+      "facebook_id": "431519096955270",
+      "soundcloud_id": "dj_flowmotion"
+    },
+    {
+      "name": "Hypnotic",
+      "description": "Hey guys I am an upcoming Dj and Producer for electro and melbourne bounce music.",
+      "logo": "https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/10980168_1616443598588354_7458773873097901832_o.jpg",
+      "theme": "#9B238F",
+      "facebook_id": "1579944442238270",
+      "soundcloud_id": "hypnoticvienna"
+    },
+    {
+      "name": "Maddog",
+      "description": "Rapper aus Wien",
+      "logo": "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10959565_771198746291086_9074231376774990712_n.jpg?oh=a19ec5f244268e2c0fe10750cd3d8ca5&oe=5548AB9D&__gda__=1434077733_7069a604bfbe20daeea1c3b6a8e31f35",
+      "theme": "#000000",
+      "facebook_id": "355626981181600",
+      "soundcloud_id": "maddraps"
+    },
+    {
+      "name": "Wolfrick",
+      "description": "My name is Max and I'm from Vienna, Austria.I produce music since 2 years and I started with my Keyboard and Cubase. But now I use Logic and you can hear the difference from my first Bootlegs to now. I try to improve my tracks and my knowledge steadily and this is why I ask you to give me feedback in the comments. With this feedback I can improve my music to make it sound better.",
+      "logo": "https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/10620315_546421158820889_85087891928255542_o.png",
+      "theme": "#000000",
+      "facebook_id": "467116273418045",
+      "soundcloud_id": "wolfrickofficial"
+    }
+  ],
+  "events": [
+    {
+      "name": "Schmelz Opening * 19.2. * The LOFT *",
+      "date": "201502192200",
+      "logo": "https://scontent-fra.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/p240x240/10451651_893290627358789_7217740845834968437_n.jpg?oh=8b73d0a5d996490b5b18876ddb00b12b&oe=5587067E",
+      "facebook_id": "796414277090910",
+      "fotos": [
+        "http://wien.unicutt.de/naos.data/images/mag_photo_collection/collection/1201/117416_gallery.jpg",
+        "http://wien.unicutt.de/naos.data/images/mag_photo_collection/collection/1201/117347_gallery.jpg",
+        "http://wien.unicutt.de/naos.data/images/mag_photo_collection/collection/1201/117430_gallery.jpg"
+      ],
+      "more_fotos": "http://wien.unicutt.de/mag/partyphotos/wien/theloft/2015/2/19/schmelzopening_1265.htm"
+    },
+    {
+      "name": "♚ SPRING has ARRIVED ♚",
+      "date": "201404172130",
+      "logo": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/s720x720/1521644_858613837498048_863949488_n.jpg?oh=68a21b3ff3c0288591b1f83eeecb20ae&oe=5556632E&__gda__=1431843500_17d728927cb573bf83882699bbcb1e4f",
+      "facebook_id": "403900316420240",
+      "fotos": [
+        "http://assets.warda.at/uploads/galleries/8156/branded_a0cff0b7-371c-4101-992c-faf4398af0f6.jpg",
+        "http://assets.warda.at/uploads/galleries/8156/branded_ef1b2e1c-6a2a-4559-823f-173a0823ae51.jpg",
+        "http://assets.warda.at/uploads/galleries/8156/branded_2fbb4a81-4851-4a1d-9465-e15933f85783.jpg"
+      ],
+      "more_fotos": "http://www.warda.at/fotos/8156-spring-has-arrived"
+    },
+    {
+      "name": "♕ READY FOR THE WEEKEND ♕",
+      "date": "201411072200",
+      "logo": "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/s720x720/10694207_1449784848579718_5656616054540590689_o.jpg",
+      "facebook_id": "793918614003856",
+      "fotos": [
+        "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10698607_1473915246166678_1568578009900401296_n.jpg?oh=788c4353aa934d54ae8c9c2e7f62d356&oe=558F07E3&__gda__=1434735322_7729f7df49d040f4ca29bdf3a057191a",
+        "https://scontent-vie.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1601366_1473915212833348_7413313154780387638_n.jpg?oh=bc9445350901ef4fd995dcb8569427de&oe=5584FE58",
+        "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/p480x480/10577044_1473915252833344_4766988658036355803_n.jpg?oh=706c6f186e1885ec5129d7570ca5f3db&oe=55806B1A&__gda__=1435225035_71f8b8ae485f5653240b8bc7b32548cc"
+      ],
+      "more_fotos": "https://www.facebook.com/media/set/?set=a.1473915196166683.1073741829.1392436054314598"
+    },
+    {
+      "name": "☼ SUMMER is COMING ☼",
+      "date": "201406182145",
+      "logo": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/p180x540/1506049_887800077912757_9088636647374220240_n.jpg?oh=0e300eb2855afe3db0034730528d6237&oe=5550C62A&__gda__=1434620077_e26a1d9570e7b18a98dd6b7cc1933d97",
+      "facebook_id": "589475497826098",
+      "fotos": [
+        "https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/p206x206/10394507_1395705563987647_4992949264528349998_n.jpg?oh=885fe3da553ef2b2aadbd4323729efba&oe=55832F6C&__gda__=1431555156_0ec337510871e8f4577c65415d89504e",
+        "https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/10439420_1395705473987656_4220712754210540505_n.jpg?oh=fa5192402d24211529f5d0eec29f481e&oe=5581C699&__gda__=1434736841_6ac0a5be62cf2727bd5196160164a9c7",
+        "https://scontent-vie.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10492081_1395705587320978_3789899409173797975_n.jpg?oh=eecef4d4ec16d34cca1c68888dfc1148&oe=559041ED"
+      ],
+      "more_fotos": "https://www.facebook.com/media/set/?set=a.1395705467320990.1073741828.1392436054314598"
+    },
+    {
+      "name": "► DOTS IS BACK ◄ || pres. by VEA & Prestige 7",
+      "date": "201501302200",
+      "logo": "https://scontent-vie.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/s720x720/10891661_1069815636377866_5693348400195441737_n.jpg?oh=0fb0447a6045d9f0d60f09584bf5ae7e&oe=5549E495",
+      "facebook_id": "302043366658006",
+      "fotos": [
+        "https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/p206x206/10955643_1511526282405574_7772965955292008836_n.jpg?oh=39207a24c6670afbed7e2e89108d7126&oe=5589F887&__gda__=1435947564_6c7479dc6fb811d831052fbea7d15884",
+        "https://scontent-vie.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1926912_1511526239072245_1561256644716058806_n.jpg?oh=42c1d27b930a35f04742e9c79c1e88d1&oe=5590EE21",
+        "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/1506828_1511526235738912_3586856566602545380_n.jpg?oh=737562662ead11c74d61f87cade9d1ae&oe=558FD1D9&__gda__=1435110241_e9bf0ad248ec03ef55baf23a33195fba"
+      ],
+      "more_fotos": "https://www.facebook.com/media/set/?set=a.1511526045738931.1073741833.1392436054314598"
+    }
+  ]
+}

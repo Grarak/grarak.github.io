@@ -1,0 +1,44 @@
+{
+
+  "faqs": [
+
+    {
+
+      "question": "Stuck in bootloop help!",
+      "answer": "Reflash your default ROM."
+
+    },
+    {
+
+      "question": "I want to switch back to default ROM!",
+      "answer": "Delete /data/media/.rom"
+
+    },
+    {
+
+      "question": "Can I use AOSP 5.0 as subROM?",
+      "answer": "Yes, but only ROMs without the new blockimage flashing method (like frapeti's CM12 ROM)."
+
+    },
+    {
+
+      "question": "Can I flash ROMs to external storage?",
+      "answer": "Yes, you can, but it's untested. My SD Card (64GB SDXC Class 10) wasn't fast enough!"
+
+    },
+    {
+
+      "question": "Can I flash ROMs with Aroma installer as subROM?",
+      "answer": "No, sorry. Aroma installer is not supported! However you can still flash it as default ROM."
+
+    },
+    {
+
+      "question": "Black screen after installing! Helpppp?!",
+      "answer": "Delete /data/media/.rom"
+
+    }
+
+  ]
+
+}

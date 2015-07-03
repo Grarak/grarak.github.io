@@ -1,0 +1,13 @@
+1.5
+remove fastcharge
+add Battery Control
+use carbon ramdisk
+
+1.4
+add fastcharge
+switch to 4.9.1 Linaro Toolchain by christopher83
+
+1.3
+fix 1.32 GHz CPU OC
+intelliactive: add upstream patches
+intelli_plug: code review clean up

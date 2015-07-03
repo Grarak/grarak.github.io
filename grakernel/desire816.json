@@ -1,0 +1,106 @@
+{
+  "name": "<b><font color=\"#FFFFFF\">GraKernel</font></b>",
+  "short_description": "A kernel by <b>Grarak</b>",
+  "long_description": "<a href=\"http://www.github.com/Grarak\">My Github Profile</a>",
+  "logo": "https://avatars1.githubusercontent.com/u/2061518",
+  "xda": "http://forum.xda-developers.com/desire-816/orig-development/kernel-grakernel-t2857866",
+  "github": "https://github.com/Grarak/grakernel-msm8226",
+  "google_plus": "https://plus.google.com/u/0/101665005278935743165",
+  "paypal": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DXV926WDYKP5Q",
+  "features": [
+    "CAF Based",
+    "Linux Kernel 3.4.0",
+    "Build with Google Toolchain 4.7",
+    {
+      "name": "CPU Governors",
+      "items": [
+        "interactive",
+        "ondemand (default)",
+        "userspace",
+        "powersave",
+        "performance"
+      ]
+    },
+    {
+      "name": "GPU Governors",
+      "items": [
+        "msm_cpufreq",
+        "msm-adreno-tz (default)",
+        "userspace",
+        "powersave",
+        "performance",
+        "simple_ondemand"
+      ]
+    },
+    {
+      "name": "I/O Schedulers",
+      "items": [
+        "noop",
+        "deadline",
+        "row",
+        "cfq",
+        "bfq (default)",
+        "fiops",
+        "sio"
+      ]
+    },
+    "LZ4",
+    "CSnappy compression/decompression",
+    "exfat",
+    "f2fs",
+    "Battery Control",
+    "Intelliplug (intelligent hotplug)",
+    "Frandom Support",
+    "Vibration Control",
+    "MSM Kcal",
+    "zRam",
+    "ZCache",
+    "Sound Control",
+    "Multicore Power Saving",
+    "Write Protection has been removed",
+    "Init.d scripts",
+    "Support for Synapse"
+  ],
+  "downloads": [
+    {
+      "name": "0.3.1",
+      "description": "<b>Only for <i>4.4</i> and <i>CM based ROMs</i></b>",
+      "url": "https://github.com/Grarak/grarak.github.io/raw/master/a5/0.3.1.img",
+      "md5sum": "02621769da1d5cc020c8ab503b20d797",
+      "install_method": "dd if=$FILE of=/dev/block/platform/msm_sdcc.1/by-name/boot",
+      "changelog": [
+        "switch to CAF kernel"
+      ]
+    },
+    {
+      "name": "0.3",
+      "description": "<b>Only for <i>4.4</i> and <i>Sense based ROMs</i></b>",
+      "url": "https://github.com/Grarak/grarak.github.io/raw/master/a5/grakernel/gk_0.3.zip",
+      "md5sum": "b6a2a025bd2251a399b831ff2244a7f3",
+      "changelog": [
+        "add support for a5ul",
+        "disable zram by default"
+      ]
+    },
+    {
+      "name": "0.2",
+      "description": "<b>Only for <i>4.4</i> and <i>Sense based ROMs</i></b>",
+      "url": "https://github.com/Grarak/grarak.github.io/raw/master/a5/grakernel/gk_0.2.zip",
+      "md5sum": "793d3a9915747ff4c2edcfc0f7b19748",
+      "changelog": [
+        "add Sound Control",
+        "switch to Google Toolchain 4.7",
+        "Pronto version 3.2.3.172"
+      ]
+    },
+    {
+      "name": "0.1",
+      "description": "<b>Only for <i>4.4</i> and <i>Sense based ROMs</i></b>",
+      "url": "https://github.com/Grarak/grarak.github.io/raw/master/a5/grakernel/gk_0.1.zip",
+      "md5sum": "f9bdf698a996d94aeee534c5308182d3",
+      "changelog": [
+        "Initial Release"
+      ]
+    }
+  ]
+}

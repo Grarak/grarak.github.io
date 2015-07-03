@@ -1,0 +1,28 @@
+{
+
+  "downloads": [
+
+    {
+
+      "link": "https://github.com/Grarak/grarak.github.io/blob/master/romswitcher/i9500/3.0.img?raw=true",
+      "version": "3.0",
+      "md5sum": "61733c3028110e3dd74284235e139c79",
+      "size": "7.6MB",
+      "changelog": "Unlimited ROMs and redesigned Application\n@Now supports AOSP Lollipop",
+      "note": "Only for TW 4.4, AOSP 4.4 and AOSP 5.0"
+
+    },
+    {
+
+      "link": "https://github.com/Grarak/grarak.github.io/blob/master/romswitcher/i9500/3.1.img?raw=true",
+      "version": "3.1",
+      "md5sum": "1909e04a7a324d7022b7655fb4e7f5aa",
+      "size": "7.8MB",
+      "changelog": "Updated Recovery and Kernel\n@Added LED Blinking control\n@AOSP Lollipop Ramdisk update",
+      "note": "Only for TW 4.4, AOSP 4.4 and AOSP 5.0"
+
+    }
+
+  ]
+
+}

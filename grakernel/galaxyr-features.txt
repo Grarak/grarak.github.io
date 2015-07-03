@@ -1,0 +1,45 @@
+Linux Kernel 3.1.10
+Build Linaro 4.9.1 Toolchain by christopher83
+
+CPU Governors:
+
+ondemand
+conservative
+powersave
+userspace
+interactive (default)
+performance
+intellidemand
+intelliactive
+
+I/O - Schedulers:
+
+noop
+row
+cfq
+deadline
+sio (default)
+
+Voltage Control
+Max Screen Off Freq
+CPU OC up to 1.32GHz
+GPU OC to 410 MHz
+XZkern
+Frandom support
+Snappy compression / decompression
+Timer Slack Controller
+Z-RAM
+Android OOM-killer
+Fsync control
+Backlight Notification
+Ram Hack
+Disabled SElinux
+Kexec hardboot
+Synapse Support
+Vibration Control
+Touch LED Control
+Multicore Power Saving
+IntelliPlug
+Voodoo Sound Control
+Battery Control
+Init.d scripts

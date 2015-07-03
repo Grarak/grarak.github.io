@@ -1,0 +1,14 @@
+0.3.1
+switch to CAF kernel (now only CM based roms are supported)
+
+0.3
+add support for a5ul
+disable zram by default
+
+0.2
+add Sound Control
+switch to Google Toolchain 4.7
+Pronto version 3.2.3.172
+
+0.1
+Initial Release

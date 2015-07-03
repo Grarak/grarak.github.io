@@ -1,0 +1,15 @@
+{
+  "name": "<b><font color=\"#000000\">Test Kernel</font></b>",
+  "short_description": "<font color=\"#000000\">blaaaa <b>FUCK</b></font>",
+  "long_description": "Just a random kernel by <b>Grarak</b>.<br><br>I'm just normal guy, who does shit and blaaaa. <u>Test Test Test</u><br><br> <i>Italic</i><br><a href=\"http://www.github.com/Grarak\">My Github Profile</a>",
+  "logo": "http://www.zdnet.com/i/story/60/05/010558/android-wallpaper5_2560x1600.jpg",
+  "downloads": [
+    {
+      "name": "0.3.1",
+      "description": "<b>Only for <i>4.4</i></b>",
+      "url": "https://github.com/Grarak/grarak.github.io/raw/master/a5/grakernel/gk_0.3.1.zip",
+      "md5sum": "d04b237cc15d50b2f63f4f4e991a120f",
+      "changelog": "switch to CAF kernel<br>Text"
+    }
+  ]
+}
