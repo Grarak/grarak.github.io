@@ -1,7 +1,7 @@
 [
   {
     "name": "Selinux Changer",
-    "description": "Allows you to change Selinux to Permissive/Enforcing. May does not work on some devices. Only for Android 4.3 and above."
+    "description": "Allows you to change Selinux to Permissive/Enforcing. May does not work on some devices. Only for Android 4.3 and above.",
     "download": ""
   }
 ]
